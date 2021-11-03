@@ -38,7 +38,7 @@
 }
 
 .icon-bar {
-  /* background-color: rgb(255, 255, 255); */
+ 
   background-color: #f1ee0a;
 }
 
@@ -88,7 +88,7 @@ li {
 
 .item-name {
   text-align: center;
-  font-size: 210px;
+  font-size: 20px;
   font-weight: bold;
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: #f1ee0a;
